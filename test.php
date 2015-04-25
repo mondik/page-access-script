@@ -1,15 +1,9 @@
 <?php
+// napis stranky do zoznamu -premenna-
 $stranky = array(
-	'http://rmines.fakaheda.eu/domov/`,
-	'http://rmines.fakaheda.eu/kontakt`,
-	'http://rmines.fakaheda.eu/ako-sa-        pripojit`,
-	'http://rmines.fakaheda.eu/banlist/`͵
-	'http://rmines.fakaheda.eu/prikazy`͵
-	'http://rmines.fakaheda.eu/pravidla`͵
-	'http://rmines.fakaheda.eu/forum/`͵
-	'http://rmines.fakaheda.eu/chat',
+	'http://www.youtube.com/`,
+	'http://www.google.com/`,
 	);
-
 
 // uloz si pocet stranok
 $pocet_stranok = count($stranky);
